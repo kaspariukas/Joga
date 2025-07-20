@@ -5,13 +5,22 @@
     text-decoration: none;
 }
 
-body {
+.noScrool {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f5f5f5;
     color: #333;
     margin: 0;
     padding: 0;
     overflow: hidden;
+}
+
+
+.scrool {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
 }
 
 .navbar {
