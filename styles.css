@@ -98,7 +98,7 @@ li a:hover {
 .hero::after {
     content: "Atrask vidinę ramybę ir stiprybę per jogos praktiką";
     position: absolute;
-    top: 5%;
+    top: 10%;
     left: 50%;
     white-space: nowrap;
     font-style: italic;
